@@ -23,5 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Link to site
-(https://music-app-eight-pi.vercel.app/)
+### Link to site [here](https://music-app-eight-pi.vercel.app/)
+
